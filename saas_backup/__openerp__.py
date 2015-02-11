@@ -29,7 +29,6 @@
     'website': 'https://github.com/YannickB',
     'description': """
     SaaS Backup
-    =================
     """,
     'demo': [],
     'data': ['saas_backup_data.xml'],
